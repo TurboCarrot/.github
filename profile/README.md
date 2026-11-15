@@ -1,4 +1,4 @@
-# TurboCarrot
+# Get it done so it stays done
 
 Software that works — on budget, on time. That's the whole pitch.
 
