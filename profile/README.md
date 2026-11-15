@@ -1,39 +1,28 @@
 # Get it done so it stays done
 
-Software that works — on budget, on time. That's the whole pitch.
-
-We build websites, assess and fix accessibility, and improve AI development workflows for international marketing agencies, web studios and startups—including AI-first and vibe-coding teams.
+We design and build WordPress and headless CMS websites — new sites and relaunches — with content planning, UX design, development and SEO in one project, and reviews at 3 and 6 months after launch. We also audit and fix web accessibility. Work with us directly, or bring us in as your agency's delivery partner.
 
 ## What we do.
 
-- **Web and digital.** WordPress and headless CMS websites, progressive web apps, SEO and GEO.
-- **[Web accessibility](https://turbocarrot.com/web-accessibility.html).** WCAG 2.1 A and AA assessments with browser and screen-reader evidence, code fixes, and project-specific accessibility guidance and tooling for coding agents.
-- **[AI reliability engineering](https://turbocarrot.com/ai-reliability-engineering.html).** More robust development workflows, with less rework and less second-guessing of agent output. We analyze project history to find recurring problems, then implement and test improvements to instructions, skills, agent roles and model/effort selection.
+- **[WordPress websites](https://turbocarrot.com/wordpress-development.html).** Custom themes and page templates your team can use to keep the site up to date, with one system for editing and the public pages.
+- **[Headless CMS websites](https://turbocarrot.com/headless-cms-development.html).** One content source for websites, apps and store display panels. We set up the CMS and build the website and web application channels.
+- **[Web accessibility](https://turbocarrot.com/web-accessibility.html).** Audits against WCAG 2.1 Levels A and AA, with browser and screen-reader evidence. We also implement fixes in your codebase through your normal review process. Book an audit, fixes, or both.
 
-Work with us directly or bring us in as your subcontractor. You keep the strategy, creative and client relationship; we handle the engineering.
+Both website offerings include content planning, SEO, UX design and development, with reviews and fine-tuning at 3 and 6 months after launch. Relaunches also include content migration and redirects for changed URLs. In agency projects, your brand guidelines and creative direction lead the design, and you keep the client relationship.
 
-## Some of the work is public.
+## How we build and check the work.
 
-### [Indico visual and accessibility regressions](https://github.com/TurboCarrot/indico-va-regressions)
+We use AI in our implementation and review, with engineering discipline behind it. We distinguish work that needs our experience and judgment, work where that experience becomes AI instructions, and work AI can complete competently on its own. Checks leave evidence a person can inspect.
 
-A regression suite that compares screenshots and accessibility-tree snapshots across Indico pages and user roles. Changes appear in a review UI, so unintended differences can be inspected before accepting a new baseline.
+[How we work with AI](https://turbocarrot.com/ai-reliability-engineering.html).
 
-[See the regression workflow](https://turbocarrot.com/case-study-accessibility-regression.html).
+Some of that engineering practice is public:
 
-### [Skillcraft](https://github.com/TurboCarrot/skillcraft)
-
-Recipes that help coding agents create project-specific skills, rules and agent roles. The principles travel between projects and tools; commands and conventions are derived from the actual repository.
-
-## Priced straight. No drama. Forward-looking.
-
-Stick to the brief, we stick to our price. No surprises on the invoice.
-
-No hot potatoes in your lap. If something breaks, we fix.
-
-We move first on AI — adopting new capabilities early and putting them to work in production.
+- **[Indico visual and accessibility regressions](https://github.com/TurboCarrot/indico-va-regressions).** Screenshot and accessibility-tree comparisons across Indico pages and user roles, with a review UI for inspecting changes. [See the case study](https://turbocarrot.com/case-study-accessibility-regression.html).
+- **[Skillcraft](https://github.com/TurboCarrot/skillcraft).** Recipes that help coding agents create project-specific skills, rules and agent roles, deriving commands and conventions from the actual repository.
 
 Led by [Hajime Yamasaki Vukelic](https://www.linkedin.com/in/hajime-yamasaki-vukelic/), a 20-year+ veteran software engineer.
 
 ## Tell us what you're building.
 
-[Explore our services and case studies](https://turbocarrot.com/) or email [hello@turbocarrot.com](mailto:hello@turbocarrot.com).
+[Explore our services, delivery promises and case studies](https://turbocarrot.com/) or email [hello@turbocarrot.com](mailto:hello@turbocarrot.com).
